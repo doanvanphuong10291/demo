@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         // Get all view from layout 2345
 
 
-        // hellogit
+        // hellogit nha <3
     }
 }
